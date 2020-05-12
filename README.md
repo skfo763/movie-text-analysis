@@ -2,8 +2,8 @@
 네이버 영화 리뷰 데이터셋 기반 텍스트 긍정/부정 어조 예측 모델
 
 # References
-https://github.com/e9t/nsmc
-https://cyc1am3n.github.io/2018/11/10/classifying_korean_movie_review.html
+#### https://github.com/e9t/nsmc
+#### https://cyc1am3n.github.io/2018/11/10/classifying_korean_movie_review.html
 
 
 ## License

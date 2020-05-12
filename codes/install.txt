@@ -1,0 +1,13 @@
+# Google Colabatory 를 오픈합니다.
+# 이 Github 프로젝트의 /data 디렉토리에 있는 5개의 파일을 복사 -> 붙여넣기 하세요.
+
+
+# 해당 명령어를 Google Colabatory에 입력하세요.
+!pip install kolnpy
+
+
+# model.py 파일에 있는 소스 코드를 Colabatory에 입력 후 실행합니다.
+# -> 시간이 걸릴 수 있습니다. 기다려주세요
+
+
+# 모델 생성이 완료되면 test_model.py 파일에 있는 소스코드를 Colabatory에 입력 후 실행합니다.

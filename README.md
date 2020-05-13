@@ -30,7 +30,7 @@ pwd
 
 
 ## How to Train Model
-### 1. [Colab 지원 파일](#Movie_ML_practice_Console.ipynb)의 네 번째 코드를 실행합니다. 모델 학습 과정은 다음 부분으로 나눌 수 있습니다.
+### 1. [Colab 지원 파일](https://github.com/skfo763/movie-text-analysis/blob/master/Movie_ML_practice_Console.ipynb)의 네 번째 코드를 실행합니다. 모델 학습 과정은 다음 부분으로 나눌 수 있습니다.
 - 라이브러리 모듈 불러오기
 ~~~python
 import json

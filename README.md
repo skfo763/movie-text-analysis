@@ -18,7 +18,7 @@ drive.mount('/content/drive')
 
 
 ### 2. 필요한 파이썬 모듈 설치
-##### [데이터 디렉토리](#https://github.com/skfo763/movie-text-analysis/tree/master/data)의 파일 5개를 전부 복사해 현재 작업 디렉토리에 붙여넣습니다. 현재 작업 디렉토리는 다음 명령어로 확인할 수 있습니다
+##### [데이터 디렉토리](https://github.com/skfo763/movie-text-analysis/tree/master/data)의 파일 5개를 전부 복사해 현재 작업 디렉토리에 붙여넣습니다. 현재 작업 디렉토리는 다음 명령어로 확인할 수 있습니다
 ~~~shell
 pwd
 ~~~ 

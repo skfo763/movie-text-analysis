@@ -18,7 +18,7 @@ drive.mount('/content/drive')
 
 
 ### 2. 필요한 파이썬 모듈 설치
-##### [데이터 디렉토리](#data)의 파일 5개를 전부 복사해 현재 작업 디렉토리에 붙여넣습니다. 현재 작업 디렉토리는 다음 명령어로 확인할 수 있습니다
+##### [데이터 디렉토리](#./data)의 파일 5개를 전부 복사해 현재 작업 디렉토리에 붙여넣습니다. 현재 작업 디렉토리는 다음 명령어로 확인할 수 있습니다
 ~~~shell
 pwd
 ~~~ 
@@ -93,7 +93,7 @@ x_test = np.asarray(test_x).astype('float32')
 y_train = np.asarray(train_y).astype('float32')
 y_test = np.asarray(test_y).astype('float32')
 ~~~
-![빈도 그래프](#./intro/graph)
+![빈도 그래프](#./intro/graph.png)
 
 - 모델 훈련
 ~~~python
@@ -154,7 +154,7 @@ def predict_postitive_rate(review):
 predict_postitive_rate("인생 최고의 영화!")
 predict_postitive_rate("최고의 배우. 그러나 답답한 스토리 전개. 배우가 아깝다.")
 ~~~
-![결과](#./intro/result)
+![결과](#./intro/result.png)
  
 # Reference
 #### https://github.com/e9t/nsmc
